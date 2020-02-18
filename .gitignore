@@ -1,6 +1,6 @@
 # Random
 .DS_Store
-*.jpg
+*.jpg\n
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
